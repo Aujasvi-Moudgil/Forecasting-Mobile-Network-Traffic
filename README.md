@@ -42,7 +42,7 @@ of Milan and the Province of Trentino. Sci Data 2, 150055 (2015)
 
 - [4] Selva Prabhakaran, (2019, Feb 18), ARIMA Model - Time Series Forecasting - Blog Post
 
-- [5] Kaggle: Mobile Activity in a city [Link] (https://www.kaggle.com/marcodena/mobile-phone-activity/kernels)
+- [5] Kaggle: Mobile Activity in a city [Link](https://www.kaggle.com/marcodena/mobile-phone-activity/kernels)
 
 - [6] Raymond Camden, (2019, Sep 4), An Introduction to GeoJSON - Blog Post
 

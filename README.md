@@ -29,7 +29,7 @@ only a proxy for the actual traffic volume in bytes, which provides however a de
 
 ![Image](GeoJSON.png)
 
-#### This work was submitted to Assoc. Prof. Marco Fiore (Research Associate Professor, IMDEA Networks Institute - Madrid) as a part of Phd Audition Process. 
+#### The work was submitted to Assoc. Prof. Marco Fiore (Research Associate Professor, IMDEA Networks Institute - Madrid, Spain) as a part of Phd Audition Process. 
 
 ## References
 

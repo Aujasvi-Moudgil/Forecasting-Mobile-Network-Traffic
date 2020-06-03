@@ -16,7 +16,7 @@ The task can be broken down into two main parts:
 ## Dataset 
 
 The dataset reports lines in the format above for 10,000 areas (organized in a regular grid) during a continued period of two months.
-A preliminary description of the data is provided in a paper published in Scientific Data by Barlacchi et al. [Link] (https://www.nature.com/articles/sdata201555). While the paper presents the many datasets that were made available for the other challenges, only two are relevant to the above mentioned tasks:
+A preliminary description of the data is provided in a paper published in Scientific Data by Barlacchi et al. [Link](https://www.nature.com/articles/sdata201555). While the paper presents the many datasets that were made available for the other challenges, only two are relevant to the above mentioned tasks:
 
 - The Telecommunication activity dataset for the city of Milan (i.e., data citation 5 in the paper), which contains mobile network traffic
 

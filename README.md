@@ -1,6 +1,6 @@
 # Forecasting-Mobile-Network-Traffic
 
-Image
+![Image](Telecom_BigData.png)
 
 ## Overview 
 
@@ -27,7 +27,7 @@ only a proxy for the actual traffic volume in bytes, which provides however a de
 
 ## Hotspots of network traffic in the city of Milan using Grid GeoJSON (Highest at city center)
 
-Image
+![Image](GeoJSON.png)
 
 #### This work was submitted to Assoc. Prof. Marco Fiore (Research Associate Professor, IMDEA Networks Institute - Madrid) as a part of Phd Audition Process. 
 
